@@ -29,4 +29,4 @@ for i in range(10):
 link to naver >>
 [여기](https://www.naver.com)  
 ![이미지대체텍스트](a.jpg) 상대경로  
-![이미지](c:\....\a.jpg) 절대경로  
+![이미지](assets\a.jpg) 절대경로  
